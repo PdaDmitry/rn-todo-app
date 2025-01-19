@@ -16,7 +16,6 @@ const styles = StyleSheet.create({
     justifyContent: "flex-end",
     backgroundColor: "#3949ab",
     paddingBottom: 10,
-    // marginBottom: 5,
   },
   text: {
     color: "#fff",
